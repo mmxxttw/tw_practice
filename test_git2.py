@@ -1,1 +1,2 @@
 print("qqq")
+print('www')
